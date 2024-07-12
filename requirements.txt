@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+weaviate-client
+requests
+
+
